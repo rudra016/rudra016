@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am mentally Capricorn & physically Scorpio.**
 
-- 📝 [My Resume](https://drive.google.com/file/d/1ehvkQtEZhRnqs6pZI2RmavEwxBhgHcWk/view?usp=sharing)
+- 📝 [My Resume](https://drive.google.com/file/d/1E1dsQZfzjcLGV1KLbkmOEHR54KSaBghE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

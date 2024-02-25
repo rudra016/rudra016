@@ -1,4 +1,4 @@
-![MasterHead](https://i.redd.it/thj41ymmh0351.gif)
+
 
 <p align="center"> <img <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rudra+Sharma"> </p>
 

@@ -25,6 +25,9 @@
 <p align="left">
 <a href="https://twitter.com/unsaintme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unsaintme" height="30" width="40" /></a>
 <a href="https://instagram.com/whateverrudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whateverrudra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rudra-kumar-897264227/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="whateverrudra"  /></a>
+
+
 </p>
 
 # 💻 Tech Stack:

@@ -39,6 +39,4 @@
 # 📊 GitHub Stats:
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=rudra016&theme=material-palenight&show_icons=true" alt="rudra016"/></p>
 
-<div>
-  ![Snake animation](https://github.com/rudra016/rudra016/blob/output/github-contribution-grid-snake.svg)
-</div>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)

@@ -8,7 +8,7 @@
 
 
 ## Code Stats
-![Rinkit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudra016&show_icons=true&theme=dark)
+![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudra016&show_icons=true&theme=dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra016&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Tech Stack:
 
@@ -18,9 +18,6 @@
 
 ## Visitor count
 ![Visitor Count](https://count.getloli.com/get/@rudra016?theme=booru-r6gdrawfriends)
-
-
-
 
 
 ## Get in touch

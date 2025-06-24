@@ -3,7 +3,7 @@
 
 ## About me
 
-- Full-stack developer fluent in Python, TypeScript, and Java — building smart AI-driven apps with tools like FastAPI, LangChain, and LangGraph.
+- Full-stack developer fluent in Python, TypeScript, and Java, building smart AI-driven apps with tools like FastAPI, LangChain, and LangGraph.
 - I turn bold ideas into real software across the stack, always exploring new tech in GenAI, cloud, and sometimes even 3D just for fun.
 
 

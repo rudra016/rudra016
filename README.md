@@ -13,7 +13,7 @@
 ## Tech Stack:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nextjs,fastapi,go,mongodb,mysql,aws,nginx,nodejs,git,gitlab,vercel" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,django,nestjs,typescript,nextjs,sklearn,threejs,tensorflow,fastapi,go,mongodb,mysql,aws,gcp,nginx,nodejs,git,docker,gitlab,vercel" />
   </a>
 
 ## Visitor count

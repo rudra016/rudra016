@@ -23,7 +23,7 @@
 ## Get in touch
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel)](https://rudrakumar.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudra-kumar-897264227/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/unsaintme)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/sudo_rudra)
 [![Leetcode](https://img.shields.io/badge/Leetcode-181717?style=for-the-badge&logo=leetcode)](https://leetcode.com/whateverrudra)
 
 

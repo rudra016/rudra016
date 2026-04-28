@@ -30,8 +30,3 @@
 ## OpenSource Stats:
 [![An image of @whateverrudra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whateverrudra)](https://holopin.io/@whateverrudra)
 
-
-<p align="center">
-  <img  src="https://github.com/rudra016/rudra016/blob/output/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
